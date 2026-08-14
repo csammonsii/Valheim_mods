@@ -1,0 +1,10 @@
+{
+  "name": "RunicPrecisionBuildTool",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/csammonsii/Valheim_mods/tree/master/RunicPrecisionBuildTool",
+  "description": "Precise six-axis building with snapping, fine control, world movement, and optional 3D orientation guides.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2333"
+  ]
+}
+
